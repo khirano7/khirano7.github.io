@@ -12,7 +12,7 @@ labels:
 
 I just spent the past week relearning the basics of Javascript, here's what I noticed:
 
-### It's Hard To Remember
+### It's Hard To Remember 
 
 I originally learned Javascript for my job as a web developer, so I had a basic idea of what it looked like before my week of review. However, I no longer work at that position, and my knowledge is a little rusty. I did end up forgetting a lot of the features related to ES6 (ECMAScript 6), like the spread operator, destructuring, and promises. Since I wasn't really using these features in my previous work, I forgot about their existence as time went on. So even though I did know the basics of Javascript entering this past week, it was really nice to get a review of things that may not be used as often. I can even use what I've learned to improve how I write code.
 
