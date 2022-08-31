@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Kayla Hirano",
+    "label": "Student",
+    "picture": "https://github.com/khirano7.png",
+    "email": "khirano7@hawaii.edu",
+    "phone": "808-457-9898",
+    "website": "https://khirano7.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": { "address": "46-330 IkiIki St.", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kayla-hirano", "url": "https://github.com/kayla-hirano" },
+      { "network": "linkedin", "username": "kayla-hirano", "url": "https://www.linkedin.com/in/kayla-hirano-0858a01b1/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Electrical Engineering" },
+    { "name": "Video Game Design" },
+    { "name": "Mobile App Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "C#" , "Javascript", "Python", "SQL"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Microsoft",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-19",
+      "summary": "Created the backend API for a mobile app using C# and .NET 6.0 Framework.",
+      "highlights": [
+        "Gained experience in API development and working with Azure resources",
+        "Collaborated with other interns and FTEs."
+      ]
+    },
+    {
+      "company": "Spectrum Photonics",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2022-05-12",
+      "summary": "Developed a GPS sensor as part of current company project.",
+      "highlights": [
+        "Worked with Python, ZeroMQ, and SQL.",
+        "Gained experience soldering and reading data from Raspberry Pi."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-01",
+      "summary": "On the development team of the Manoa Now mobile app.",
+      "highlights": [
+        "Developed with JavaScript and React Native.",
+        "Recently updated the in-app map, enabling users to view important locations on campus."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "University of Hawaii Regents Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii",
+      "summary": "The highest level merit scholarship awarded to approximately 20 students per matriculating class."
+    },
+    {
+      "title": "UH Manoa College of Engineering Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

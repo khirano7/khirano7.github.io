@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Wait n Drink | Kayla Hirano | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/khirano7.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Kayla Hirano | Professional Portfolio">
+    <meta property="og:url" content="http://localhost:4000/projects/wait-n-drink.html">
+    <meta property="og:title" content="Wait n Drink | Kayla Hirano | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/khirano7.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Wait n Drink | Kayla Hirano | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Kayla Hirano</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Wait n Drink</h1>
+ <div class="text-center p-4">
+  <img width="600px" src="../img/wait-n-drink/WaitNDrink.JPG" class="img-thumbnail" />
+  <img width="200px" src="../img/wait-n-drink/WaitNDrinkUI.png" class="img-thumbnail" />
+</div>
+
+<p>This was a project done for EE296, where I worked with a partner to create a product using an Arduino and MIT App Inventor. The purpose of the Wait n Drink is to make sure that children can safely consume their hot drinks without burning their tongues. People with sensitive tongues can also use this product. Users can select a number of different options and place cup in front of our prototype. It will let users know when the drink is ready.</p>
+
+<p>For our prototype shown in the images above, we had an ultrasonic sensor that detected when a cup was placed nearby. Once detected, users can use the UI interface to select their type of drink, cup material, and desired temperature. The app would then notify you when the drink was ready by measuring the temperature of the cup using another sensor.</p>
+
+<p>My contribution to the project involved writing the arduino code for the various sensors used. I also created the breadboard for the circuit. From this project, I was able to learn more about working with Arduino and designing mobile apps. I also gained more experience working in a team, since I had to collaborate a lot with my partner.</p>
+
+<p>Here is some code that illustrates how the sensor values were read::</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  // ultrasonic sensor configuration
+  long duration, distance;
+
+  //initial detection 
+  while (!detection){
+    digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+    duration = pulseIn(echoPin, HIGH);
+    distance = (duration/2) / 29.1;
+    
+    //If cup is on tray, set detection to true
+    if(distance &lt; 5){
+      detection = true;
+      Serial.print("ready");
+    }
+    delay (1000);
+  }
+  
+  //read in temp value sent from app
+  while(!processing){
+    while (Serial.available() == 0) {
+    }
+    appData = Serial.read();
+    
+    //Convert value recieved from app into actual temp
+    temp = convertValue(appData, toohot, almost);
+    
+    processing = true;
+    initial = true;
+    starttime = millis();
+  }
+</code></pre></div></div>
+
+<p>You can see the full code at the <a href="https://github.com/kayla-hirano/EE296-Project-WaitN-Drink-Fall-2020">Wait n Drink Repo</a>.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

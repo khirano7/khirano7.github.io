@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a019aa-ec8d-4190-9057-3f652b8ab828" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/essays/groove.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/essays/hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gps-sensor/raspberry-pi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gps-sensor/spectrum-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hello/hello-world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/javascript/JavaScript_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/scel/block-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/scel/scel-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/scel/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrink.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrinkThumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrinkUI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/gps-sensor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/scel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/wait-n-drink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/bio.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/bio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/difficulty.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/difficulty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/igniting.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/igniting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/smart-questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/smart-questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/GpsSensor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/cotton.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cotton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/micromouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/micromouse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/vacay.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/vacay.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2E3WabwU6K27i6gnrkwQz8uNwUR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/essays" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\essays" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\projects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\scel" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\gps-sensor" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\javascript" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\hello" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\wait-n-drink" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -7,33 +7,34 @@
     "phone": "808-457-9898",
     "website": "https://khirano7.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "46-330 IkiIki St.", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "khirano7", "url": "https://github.com/khirano7" },
+      { "network": "github", "username": "kayla-hirano", "url": "https://github.com/kayla-hirano" },
       { "network": "linkedin", "username": "kayla-hirano", "url": "https://www.linkedin.com/in/kayla-hirano-0858a01b1/" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
+    { "name": "Electrical Engineering" },
     { "name": "Video Game Design" },
     { "name": "Mobile App Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#" , "Javascript", "Python", "SQL"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-22",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,69 +42,54 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Microsoft",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-19",
+      "summary": "Created the backend API for a mobile app using C# and .NET 6.0 Framework.",
+      "highlights": [
+        "Gained experience in API development and working with Azure resources",
+        "Collaborated with other interns and FTEs."
+      ]
+    },
+    {
+      "company": "Spectrum Photonics",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2022-05-12",
+      "summary": "Developed a GPS sensor as part of current company project.",
+      "highlights": [
+        "Worked with Python, ZeroMQ, and SQL.",
+        "Gained experience soldering and reading data from Raspberry Pi."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-01",
+      "summary": "On the development team of the Manoa Now mobile app.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed with JavaScript and React Native.",
+        "Recently updated the in-app map, enabling users to view important locations on campus."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawaii Regents Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii",
+      "summary": "The highest level merit scholarship awarded to approximately 20 students per matriculating class."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa College of Engineering Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
     }
   ],
   "references": [
