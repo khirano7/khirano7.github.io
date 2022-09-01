@@ -6,7 +6,7 @@
     "email": "khirano7@hawaii.edu",
     "phone": "808-457-9898",
     "website": "https://khirano7.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical & Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": { "address": "46-330 IkiIki St.", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kayla-hirano", "url": "https://github.com/kayla-hirano" },
@@ -81,13 +81,13 @@
   "awards": [
     {
       "title": "University of Hawaii Regents Scholarship",
-      "date": "2019-Present",
+      "date": "2019 - Present",
       "awarder": "University of Hawaii",
       "summary": "The highest level merit scholarship awarded to approximately 20 students per matriculating class."
     },
     {
       "title": "UH Manoa College of Engineering Dean's List",
-      "date": "2019-Present",
+      "date": "2019 - Present",
       "awarder": "University of Hawaii",
       "summary": ""
     }

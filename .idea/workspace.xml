@@ -20,29 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a019aa-ec8d-4190-9057-3f652b8ab828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/essays/groove.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/essays/hello-world.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gps-sensor/raspberry-pi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gps-sensor/spectrum-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hello/hello-world.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/javascript/JavaScript_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/scel/block-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/scel/scel-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/scel/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrink.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrinkThumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/wait-n-drink/WaitNDrinkUI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/gps-sensor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/scel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/wait-n-drink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/bio.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/bio.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/difficulty.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/difficulty.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/igniting.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/igniting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/smart-questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/smart-questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/GpsSensor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/cotton.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cotton.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/micromouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/micromouse.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/vacay.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/vacay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/GpsSensor.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
