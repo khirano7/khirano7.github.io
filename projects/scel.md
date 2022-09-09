@@ -13,7 +13,7 @@ labels:
 summary: "Participated in SCEL for my EE396 and EE496."
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/scel/block-diagram.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/scel/block-diagram.png">
 
 I was a member of SCEL (Smart Campus Energy Lab) at UH Manoa for 2 semesters. SCEL focuses on designing, fabricating, and deploying a network of sensor modules across the university campus to collect meteorological data and forecast short-term photovoltaic power production. We would then be able to analyze the data collected, such as temperature, solar irradiance, humidity, and pressure, to help locate the optimal places on campus for renewable energy sources. 
  
