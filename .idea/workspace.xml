@@ -20,21 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a019aa-ec8d-4190-9057-3f652b8ab828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/essays/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/essays/standards.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/standards/BadCompare.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/standards/BadFunction.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/standards/GoodCompare.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/standards/GoodFunction.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/essays/groove.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/essays/groove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/essays/hello-world.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/essays/hello-world.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/essays/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/essays/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/gps-sensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/gps-sensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/scel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/scel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/wait-n-drink.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/wait-n-drink.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/scel.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/scel.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +39,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2E3WabwU6K27i6gnrkwQz8uNwUR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/essays" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kayla/Documents/GitHub/khirano7.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\essays" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\projects" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\standards" />
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\scel" />
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\gps-sensor" />
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\javascript" />
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\hello" />
-      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\wait-n-drink" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\essays" />
-      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\projects" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,6 +85,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
