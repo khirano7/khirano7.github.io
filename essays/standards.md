@@ -6,7 +6,7 @@ title: "The Importance of Consistent Coding"
 date: 2022-09-20
 published: true
 labels:
-  - coding standards
+  - Coding Standards
 ---
 
 ### Coding Standards?

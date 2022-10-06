@@ -20,16 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a019aa-ec8d-4190-9057-3f652b8ab828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/essays/standards.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/standards/BadCompare.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/standards/BadFunction.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/standards/GoodCompare.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/standards/GoodFunction.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/essays/design.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/essays/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/essays/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/standards.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/standards.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
