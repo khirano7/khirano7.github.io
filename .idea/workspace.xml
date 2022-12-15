@@ -20,35 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a019aa-ec8d-4190-9057-3f652b8ab828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/essays/software-engineering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/no-more-ramen.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/essays/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/essays/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/cotton/cotton-header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/cotton/cotton-square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/igniting/paintbrushes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/micromouse/micromouse-circuit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/micromouse/micromouse-robot-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/micromouse/micromouse-robot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/micromouse/micromouse-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/vacay/vacay-home-page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/vacay/vacay-square.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/difficulty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/difficulty.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/igniting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/igniting.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/smart-questions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/essays/smart-questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cotton/cotton-header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cotton/cotton-square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/igniting/paintbrushes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/micromouse/micromouse-circuit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/micromouse/micromouse-robot-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/micromouse/micromouse-robot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/micromouse/micromouse-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vacay/vacay-home-page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vacay/vacay-square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/design-patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/design-patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essays/standards.md" beforeDir="false" afterPath="$PROJECT_DIR$/essays/standards.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/cotton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/cotton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/micromouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/micromouse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/vacay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/vacay.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kayla/Documents/GitHub/khirano7.github.io/essays",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kayla/Documents/GitHub/khirano7.github.io/projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\essays" />
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\projects" />
+      <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\essays" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kayla\Documents\GitHub\khirano7.github.io\img\standards" />

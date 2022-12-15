@@ -4,7 +4,7 @@ type: essay
 title: "The Importance of Consistent Coding"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-20
-published: true
+published: false
 labels:
   - Coding Standards
 ---

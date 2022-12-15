@@ -4,7 +4,7 @@ type: essay
 title: "Pointing Out the Pattern"
 # All dates must be YYYY-MM-DD format!
 date: 2022-11-29
-published: true
+published: false
 labels:
   - Software Development
   - Design Patterns
