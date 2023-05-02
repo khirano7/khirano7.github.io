@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/software-engineering2/landing.png" >
+  <img width="800px" src="../img/purpose/landing.png" >
 </div>
 
 ### Starting Something Different
